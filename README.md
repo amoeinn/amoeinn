@@ -1,4 +1,4 @@
-Robotics Engineer working in aerospace, focused on space robotics: spacecraft GNC, autonomous surface robotics, and in-space manipulation.
+Independent research in space robotics: spacecraft GNC, autonomous surface robotics, and in-space manipulation.
 
 ## Highlighted Work
 
@@ -9,6 +9,7 @@ Robotics Engineer working in aerospace, focused on space robotics: spacecraft GN
 
 **Manipulation**
 
+- [free-floating-manipulation](https://github.com/amoeinn/free-floating-manipulation): free-floating base dynamics for a space manipulator, where a closed joint-space loop leaves the spacecraft rotated because momentum is conserved, verified against two mass models and an independent C++ implementation, with a MoveIt 2 checker showing plans MoveIt reports collision free can collide once the base reacts
 - [panda-manipulation-planning](https://github.com/amoeinn/panda-manipulation-planning): RRT-Connect and a learned signed distance field for a 7-DOF arm in PyBullet, with gradient-based trajectory optimization benchmarked against the classical baseline, and a pick and place sequence that treats a grasped object as part of the moving robot
 
 **Motion Planning and Algorithms**
