@@ -1,0 +1,14 @@
+This repository's history was rewritten on 16 Nov 2026 to replace a personal
+email address with a GitHub noreply address in the author and committer of
+every commit. No file content and no commit message changed. Every commit hash
+changed as a result. Old hashes cited elsewhere resolve through this file,
+which maps each old hash to its new one.
+
+5eabfca85479e04de8a868f1ba85551e5f45b045 0de3905708ffe0a114dc3099fa868dc8788ff722
+dafd818aca2d1fa5a8e6d329a89b54c0ae28d496 42402b2de2743efcaee73d5f9d4a5e47a6f4d629
+3019f2cb4db75564130a34a6dc6348e39db34ac1 854b29504f1125b8e827c5b1a01cefcd5a2a270c
+2259c5fe1c2759ba40c36320aa4b6a762cf5b88f c4367dba507a46d0c4dc025e054cb69831f3877b
+a94dbda13e87dbda52240084c8ff1f6b3edcf1f3 25fb6deb81e7ed396db9437a17e5217b8880cf38
+7b4c94cf6aea9a64799ccbef3089882037c5b184 9aff3a2fcafa49ade64604e6089d310a5aa99957
+d0d03060a001845f0f20975e0d3503e1f582d11d 3e47ac8e422a98e3196ae365bca8e1d541b90fe8
+991b9e424a8a90cbbd38bbfae4a5f067a03cebfd 9ef0b20960d4b2b386f4bf53ee955b1ed9883ccf
